@@ -1,0 +1,21 @@
+﻿  Constructors.cpp
+C:\Users\artgu\source\repos\MatrixBase\MatrixBase\Constructors.cpp(41,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\artgu\source\repos\MatrixBase\MatrixBase\Constructors.cpp(44,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\artgu\source\repos\MatrixBase\MatrixBase\Constructors.cpp(64,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\artgu\source\repos\MatrixBase\MatrixBase\Constructors.cpp(104,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\artgu\source\repos\MatrixBase\MatrixBase\Constructors.cpp(107,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\artgu\source\repos\MatrixBase\MatrixBase\Constructors.cpp(134,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\artgu\source\repos\MatrixBase\MatrixBase\Constructors.cpp(176,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\artgu\source\repos\MatrixBase\MatrixBase\Constructors.cpp(199,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\artgu\source\repos\MatrixBase\MatrixBase\Constructors.cpp(209,20): warning C4018: <: несоответствие типов со знаком и без знака
+  MatrixOperations.cpp
+C:\Users\artgu\source\repos\MatrixBase\MatrixBase\MatrixOperations.cpp(41,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\artgu\source\repos\MatrixBase\MatrixBase\MatrixOperations.cpp(355,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\artgu\source\repos\MatrixBase\MatrixBase\MatrixOperations.cpp(431,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\artgu\source\repos\MatrixBase\MatrixBase\MatrixOperations.cpp(434,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\artgu\source\repos\MatrixBase\MatrixBase\MatrixOperations.cpp(519,13): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\artgu\source\repos\MatrixBase\MatrixBase\MatrixOperations.cpp(533,13): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\artgu\source\repos\MatrixBase\MatrixBase\MatrixOperations.cpp(550,13): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\artgu\source\repos\MatrixBase\MatrixBase\MatrixOperations.cpp(566,13): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Создание кода...
+  MatrixBase.vcxproj -> C:\Users\artgu\source\repos\MatrixBase\Debug\MatrixBase.exe
